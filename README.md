@@ -18,5 +18,8 @@ Java , Spring boot , SQL , Azure , SOA
 ### Postman collection which includes all the APIs
 https://api.postman.com/collections/14398329-60500ff2-3c5a-4204-a3df-87b12a486d09?access_key=PMAT-01GT2TAGK2CEKD4JVY12V9MFH6
 <br/>
-
-###### © 2023 Universal Car Sale ~Sahan Nimesha~
+### Technical report of Universal Car Sale e-Commerce application
+https://drive.google.com/file/d/1NqTrT4yYuAJxXXiF7jzRUOrgpBaV7t-I/view?usp=share_link
+<br/>
+<br/>
+###### © _All rights reserved_ .2023 Universal Car Sale ~Sahan Nimesha~
